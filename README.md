@@ -13,7 +13,7 @@ This repository contains a notebook for classifying emails as spam or not spam u
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/image_retrieval_methods.git
+    git clone https://github.com/linhlinhle997/email-classifier-naive-bayes.git
     cd email-classifier-naive-bayes
     ```
 2. Open the notebook in Google Colab or Jupyter.
